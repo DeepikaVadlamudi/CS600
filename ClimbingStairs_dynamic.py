@@ -1,3 +1,6 @@
+import time
+
+t = time.process_time()
 def ClimbingStairs(n):
     a = 0
     b = 1
@@ -16,6 +19,8 @@ def ClimbingStairs(n):
             c = x
         return c
 
-n = 4
+n = 500
 s = ClimbingStairs(n)
 print("S : ",s)
+elapsed_time = time.process_time() - t
+print("time:",elapsed_time)
