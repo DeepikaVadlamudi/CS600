@@ -1,4 +1,4 @@
-# CS600
+# CS600 Advanced Algorithms
 
 Syllabus for the course can be found in the docx file. 
 
