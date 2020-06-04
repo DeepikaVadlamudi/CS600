@@ -1,4 +1,7 @@
 # CS600
 
-Practicing code related to the subject. Pyhton 3 is used. May include code from C later on. 
-May have bugs. Use at your own risk. :D 
+Syllabus for the course can be found in the docx file. 
+
+Coding the algorithms listed in python 3.
+
+I am following the course MIT 6.006 by Srini Devadas and Erik Demaine. Will upload the code related to the algorithms taught in this course which can be found on YouTube on the channel MIT OpenCourseWare.
