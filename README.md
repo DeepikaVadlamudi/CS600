@@ -1,6 +1,6 @@
 # CS600 Advanced Algorithms
 
-Syllabus for the course can be found in the docx file. 
+##Syllabus for the course can be found in the docx file. 
 
 Coding the algorithms listed in python 3.
 
