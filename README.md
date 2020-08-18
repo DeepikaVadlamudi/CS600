@@ -1,1 +1,0 @@
-##Syllabus for the course ##
