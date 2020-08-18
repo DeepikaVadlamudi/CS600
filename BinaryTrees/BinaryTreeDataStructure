@@ -1,0 +1,5 @@
+struct Vertex{
+  int key;
+  struct vertex* left;
+  struct vertex* right;
+}
